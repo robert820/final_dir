@@ -1,0 +1,23 @@
+{
+  "name": "final_dir",
+  "version": "1.0.0",
+  "description": "\"# final_dir\"",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert820/final_dir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert820/final_dir/issues"
+  },
+  "homepage": "https://github.com/robert820/final_dir#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
